@@ -7,10 +7,8 @@ REPORT Z_PROVAITEAM_DU23.
 **********************************************************************
 *21/11/2023 user:DU23 PROVA ITEAM 2023
 **********************************************************************
-* PROJETO  :
+
 * PROGRAMA : Z_PROVAITEAM_DU23
-* TRANSAÇÃO:
-* DESCRIÇÃO:
 * OBJETIVO : Elaborar um programa ABAP para a geração de um relatório ALV onde sejam listadas todas as ‘Partidas em Aberto’ de Clientes e Fornecedores.
 
 ********************************************************************
@@ -36,10 +34,8 @@ REPORT Z_PROVAITEAM_DU23.
 **********************************************************************
 *21/11/2023 USER:DU23 PROVA ITEAM 2023
 **********************************************************************
-* PROJETO  :
+
 * PROGRAMA : Z_PROVAITEAM_DU23
-* TRANSAÇÃO:
-* DESCRIÇÃO:
 * OBJETIVO : ELABORAR UM PROGRAMA ABAP PARA A GERAÇÃO DE UM RELATÓRIO ALV ONDE SEJAM LISTADAS TODAS AS ‘PARTIDAS EM ABERTO’ DE CLIENTES E FORNECEDORES.
 
 
